@@ -2,6 +2,6 @@
   "version": "1.0.18",
   "required": false,
   "notes": "Dong bo tu tab chinh hoac tab phu; toi uu do tre click.",
-  "downloadUrl": "https://raw.githubusercontent.com/gktam01/GameWindowSync-Updates/main/files/JavaGameWindowSync-Setup-1.0.18.exe",
+  "downloadUrl": "https://github.com/gktam01/GameWindowSync-Updates/releases/download/v1.0.18/JavaGameWindowSync-Setup-1.0.18.exe",
   "sha256": "a10c18621e770839b23aeca79b615bd3724fe6bae1249367114c2e26b1620e1b"
 }
