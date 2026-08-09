@@ -1,7 +1,7 @@
 {
-  "version": "1.0.18",
+  "version": "1.0.19",
   "required": false,
-  "notes": "Dong bo tu tab chinh hoac tab phu; toi uu do tre click.",
-  "downloadUrl": "https://github.com/gktam01/GameWindowSync-Updates/releases/download/v1.0.18/JavaGameWindowSync-Setup-1.0.18.exe",
-  "sha256": "a10c18621e770839b23aeca79b615bd3724fe6bae1249367114c2e26b1620e1b"
+  "notes": "Tang do on dinh dong bo nhieu tab va tu go/cai khi cap nhat.",
+  "downloadUrl": "https://github.com/gktam01/GameWindowSync-Updates/releases/download/v1.0.19/JavaGameWindowSync-Setup-1.0.19.exe",
+  "sha256": "76196ebe0ae4055d15ab437c92228092213f5cb0f01374c1212c236862946fe9"
 }
